@@ -1,0 +1,27 @@
+{
+  "name": "power-of-2-array",
+  "version": "1.0.0",
+  "description": "7 => [ 4, 2, 1 ]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumangxxx/power-of-2-array.git"
+  },
+  "keywords": [
+    "kumangxxx",
+    "power",
+    "binary",
+    "power",
+    "of",
+    "2"
+  ],
+  "author": "kumangxxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumangxxx/power-of-2-array/issues"
+  },
+  "homepage": "https://github.com/kumangxxx/power-of-2-array#readme"
+}
